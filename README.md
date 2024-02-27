@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> i am an Aspiring Data Analyst <br> Data 👋 </h1>
+  <h1 align="center"> I'm an Aspiring Data Analyst <br> Data 👋 </h1>
 </div>
 <br>
 
