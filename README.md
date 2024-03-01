@@ -63,7 +63,7 @@
   </a>
 
   <a href="">
-    <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png"  />
   </a>
 
   <a href="mailto:">
